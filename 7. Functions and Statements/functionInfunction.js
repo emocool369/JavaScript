@@ -1,0 +1,4 @@
+function printDocument() {
+    printLabel();
+    printContent();
+}
