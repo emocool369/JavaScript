@@ -1,5 +1,5 @@
 
-class Vehicle{
+class Vehicle{ //класа в джаваскрипт е фунция
         constructor(type, model, parts, fuel){
             this.type = type;
             this.model = model;
